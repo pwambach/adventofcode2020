@@ -1,4 +1,4 @@
-# docker run --rm -v $PWD:/workdir -w /workdir python:3.9-slim 2a.py
+# docker run --rm -v $PWD:/workdir -w /workdir python:3.9-slim python 2a.py
 
 import re
 
